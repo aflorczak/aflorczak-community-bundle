@@ -3,8 +3,7 @@
     "description": "My first vendor for Symfony.",
     "type": "symfony-bundle",
     "require": {
-        "symfony/framework-bundle": "^6.4",
-        "symfony/serializer": "^7.2"
+        "symfony/framework-bundle": "^6.4"
     },
     "license": "MIT",
     "autoload": {
