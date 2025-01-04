@@ -1,4 +1,4 @@
-controllers:
+community_bundle:
   resource:
     path: ../src/Controller/
     namespace: Aflorczak\CommunityBundle\Controller
