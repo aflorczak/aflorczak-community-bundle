@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'aflorczak/community-bundle',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'cf53fae88f3921bc4b9da2191ad66cd4555b6611',
         'type' => 'symfony-bundle',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'aflorczak/community-bundle' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'cf53fae88f3921bc4b9da2191ad66cd4555b6611',
             'type' => 'symfony-bundle',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -188,9 +188,9 @@
             'dev_requirement' => false,
         ),
         'symfony/framework-bundle' => array(
-            'pretty_version' => 'v7.2.2',
-            'version' => '7.2.2.0',
-            'reference' => 'aaf86f38b483ce101c7e60be050bc0140431cfe2',
+            'pretty_version' => 'v6.4.17',
+            'version' => '6.4.17.0',
+            'reference' => '17d8ae2e7aa77154f942e8ac48849ac718b0963f',
             'type' => 'symfony-bundle',
             'install_path' => __DIR__ . '/../symfony/framework-bundle',
             'aliases' => array(),
@@ -206,9 +206,9 @@
             'dev_requirement' => false,
         ),
         'symfony/http-kernel' => array(
-            'pretty_version' => 'v7.2.2',
-            'version' => '7.2.2.0',
-            'reference' => '3c432966bd8c7ec7429663105f5a02d7e75b4306',
+            'pretty_version' => 'v6.4.17',
+            'version' => '6.4.17.0',
+            'reference' => 'c5647393c5ce11833d13e4b70fff4b571d4ac710',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/http-kernel',
             'aliases' => array(),
