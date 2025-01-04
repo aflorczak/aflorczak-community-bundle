@@ -1,0 +1,3 @@
+services:
+  Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle:
+    tag: ['aflorczak.community_bundle']
