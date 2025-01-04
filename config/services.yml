@@ -1,3 +1,2 @@
 services:
-  Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle:
-    tag: ['aflorczak.community_bundle']
+  Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle: null
