@@ -1,5 +1,5 @@
 services:
-  Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle\: null
+  Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle: null
   Aflorczak\CommunityBundle\Controller\:
     resource:
       '../src/Controller/'
