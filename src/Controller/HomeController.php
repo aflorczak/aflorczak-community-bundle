@@ -8,7 +8,7 @@ use Symfony\Component\Routing\Attribute\Route;
 
 class HomeController extends AbstractController
 {
-    #[Route('/', name: 'home')]
+    #[Route('/community', name: 'af-community-bundle_home')]
     public function indexAction(): Response
     {
         return $this->json([
