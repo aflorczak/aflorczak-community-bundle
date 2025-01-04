@@ -1,2 +1,7 @@
 services:
   Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle: null
+  Aflorczak\CommunityBundle\Controller:
+    resource:
+      '../src/Controller/'
+    tags:
+      ['controller.service_arguments']

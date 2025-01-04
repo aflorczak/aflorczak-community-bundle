@@ -3,7 +3,7 @@
         'name' => 'aflorczak/community-bundle',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '9145b600914169d7e97938e743fc781aafdbd53b',
+        'reference' => '476781123b752cd3adcc11684d15314dc306f83c',
         'type' => 'symfony-bundle',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'aflorczak/community-bundle' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '9145b600914169d7e97938e743fc781aafdbd53b',
+            'reference' => '476781123b752cd3adcc11684d15314dc306f83c',
             'type' => 'symfony-bundle',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
