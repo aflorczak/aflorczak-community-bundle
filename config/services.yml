@@ -1,2 +1,8 @@
+parameters:
+
 services:
+  _defaults:
+    autowire: true      # Automatyczne wstrzykiwanie zależności
+    autoconfigure: true # Automatyczne przypisanie tagów (np. dla event subscriberów)
+
   Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle: null
