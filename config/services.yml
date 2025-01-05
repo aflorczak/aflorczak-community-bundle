@@ -5,4 +5,9 @@ services:
     autowire: true      # Automatyczne wstrzykiwanie zależności
     autoconfigure: true # Automatyczne przypisanie tagów (np. dla event subscriberów)
 
-  Aflorczak\CommunityBundle\Services\MyFirstServiceInCommunityBundle: null
+  Aflorczak\CommunityBundle\:
+    resource: ../src/  
+    exclude:
+      - '../src/DependencyInjection/'
+      - '../src/Controller/'
+      - '../src/Services/'
